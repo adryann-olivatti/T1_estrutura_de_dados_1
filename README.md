@@ -114,7 +114,7 @@ make clean
 
 ---
 
-## 🛠️ Fluxo de Trabalho no GitHub
+## Fluxo de Trabalho no GitHub
 
 Se você deseja clonar este repositório, fazer alterações e enviar contribuições, siga os comandos abaixo:
 
