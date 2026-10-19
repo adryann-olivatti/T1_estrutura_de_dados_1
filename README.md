@@ -1,4 +1,4 @@
-# 🧮 Polinômios Esparsos em C
+# Polinômios Esparsos em C
 
 ![C Language](https://img.shields.io/badge/Language-C-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -11,7 +11,7 @@ eq 0$), garantindo alta performance em operações algébricas com grandes expoe
 
 ---
 
-## 📋 Sumário
+## Sumário
 
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Funcionalidades e Comandos](#-funcionalidades-e-comandos)
@@ -25,7 +25,7 @@ eq 0$), garantindo alta performance em operações algébricas com grandes expoe
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 .
@@ -39,7 +39,7 @@ eq 0$), garantindo alta performance em operações algébricas com grandes expoe
 
 ---
 
-## ⚙️ Funcionalidades e Comandos
+## Funcionalidades e Comandos
 
 O programa lê instruções a partir do `stdin` e suporta as seguintes operações:
 
@@ -61,7 +61,7 @@ O programa lê instruções a partir do `stdin` e suporta as seguintes operaçõ
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ### Pré-requisitos
 
